@@ -1,0 +1,174 @@
+.main {
+    width: 1200px;
+    height: 800px;
+    /*background-color: gainsboro;*/
+    margin: 0 auto;
+}
+.information-icon {
+    height: 50px;
+    width: 1200px;
+    background-color:rgba(0, 0, 0, 0.67);
+}
+.logo-menu {
+    height: 100px;
+    width: 1200px;
+    background-color: white;
+}
+.content-form {
+    height: 650px;
+    width: 1200px;
+    /*background-color: green;*/
+}
+.information {
+    height: 100%;
+    width: 36%;
+    /*background-color: rgba(102, 51, 153, 0.65);*/
+    float: left;
+}
+.icon {
+    height: 100%;
+    width: 64%;
+    /*background-color: #92922b;*/
+    float: left;
+}
+.icon ul
+{
+    margin: 0;
+    padding: 0;
+    margin-left: 417px;
+    margin-top: 14px;
+}
+.icon ul li
+{
+    display: inline-block;
+    list-style: none;
+}
+.icon ul li a
+{
+    padding: 0 10px;
+    color: #797979;
+    display: block;
+}
+.logo {
+    height: 100%;
+    width: 25%;
+    /*background-color: #ce9696;*/
+    float: left;
+}
+.menu {
+    height: 100%;
+    width: 75%;
+    /*background-color: beige;*/
+    float: left;
+}
+.content {
+    height: 100%;
+    width: 60%;
+    /*background-color: #af90af;*/
+    float: left;
+}
+.signup-form {
+    height: 100%;
+    width: 40%;
+    /*background-color: #55a055;*/
+    float: left;
+   }
+.signup-form .form
+{
+    background: #fff;
+    width: 69%;
+    height: 55%;
+}
+.form input
+{
+    width: 90%;
+    padding: 10px;
+    display: block;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    border: 1px solid #222;
+}
+.form .button
+{
+    width:60%;
+    background: #fff;
+    padding: 09px;
+}
+p
+{
+    color: rgba(255, 140, 17, 0.99);
+
+}
+.menu ul
+{
+
+}
+.menu ul li{
+    /*border:1px solid white;*/
+    width:19%;
+    height:40px;
+    line-height:40px;
+    display:inline-block;
+
+    text-align:center;
+    
+}
+.menu ul li a{
+    color:#222;
+    text-decoration:none;
+    display:block;
+    text-transform: uppercase;
+}
+.menu ul li a:hover{
+    background-color: rgb(226,226,226);
+    color:#d08318;
+    transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition:all 0.3s ease-in-out;
+}
+.menu ul li a:focus
+{
+    color: #D08313;
+    background-color: rgb(226,226,226);
+}
+.contents
+{
+    width: 60%
+    padding: 100px 0;
+    float: left;
+}
+.contents h1
+{
+    font-size: 35px;
+    text-transform: uppercase;
+    color: #1b1b1b;
+}
+.contents h1 span
+{
+    color: #D08313;
+}
+
+.contents p
+{
+    color: white;
+}
+.content img
+{
+    max-width: 100%
+    width:100%;
+}
+.bg
+{
+    background-image: url(images/loan--business-consultant.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.button
+{
+    border: 1px solid #000;
+    border-radius: 5px;
+}
+}
+    
+    
+
